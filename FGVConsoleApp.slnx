@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FGVConsoleApp.Test/FGVConsoleApp.Test.csproj" />
+  <Project Path="FGVConsoleApp/FGVConsoleApp.csproj" />
+</Solution>

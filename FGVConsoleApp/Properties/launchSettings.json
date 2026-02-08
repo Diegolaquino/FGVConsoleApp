@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FGVConsoleApp": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
